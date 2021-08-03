@@ -1,0 +1,7 @@
+{
+    "name": "Emoji Saver",
+    "version": "1.0.4",
+    "description": "Allows you to right click any emoji in the emoji list to save it to your downloads.",
+    "author": "Benny",
+    "license": "MIT"
+}
